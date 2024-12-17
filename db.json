@@ -1,0 +1,96 @@
+{
+    "profile": {
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "bio": "I love planning events and making every moment special.",
+      "avatar": "https://via.placeholder.com/150"
+    },
+    "events": [
+      {
+        "title": "rurasho",
+        "description": "traditional engagement ceremony",
+        "date": "2024-12-15",
+        "time": "08:00",
+        "category": "personal",
+        "id": "1734025924927",
+        "archived": true
+      },
+      {
+        "title": "Wedding",
+        "description": "My sister's wedding",
+        "date": "2025-01-10",
+        "time": "21:00",
+        "category": "personal",
+        "id": "1734082157263",
+        "archived": true
+      },
+      {
+        "id": "1734363311541",
+        "title": "birthday",
+        "description": "job birthday",
+        "date": "2024-12-17",
+        "time": "21:00",
+        "category": "birthday",
+        "archived": true
+      },
+      {
+        "id": "1734363447503",
+        "title": "dentist",
+        "description": "appointment",
+        "date": "2025-01-16",
+        "time": "07:37",
+        "category": "personal",
+        "archived": true
+      },
+      {
+        "id": "d28f516e-aeda-4847-af01-f1766e51e686",
+        "title": "meeting ",
+        "description": "PC meeting",
+        "date": "2025-03-16",
+        "time": "07:00",
+        "category": "work",
+        "archived": true
+      },
+      {
+        "title": "training",
+        "description": "pc training koshin",
+        "date": "2025-03-18",
+        "time": "19:00",
+        "category": "work",
+        "id": "8abf3a9d-6f6f-49f7-aa40-bb1ce8fa9c60"
+      },
+      {
+        "title": "house warming",
+        "description": "opening the house",
+        "date": "2024-12-12",
+        "time": "19:00",
+        "category": "personal",
+        "id": "3262bc5e-ac9c-44e3-b1a2-fcb4c408a735",
+        "archived": true
+      },
+      {
+        "title": "koito",
+        "description": "tradition ceremony ",
+        "date": "2024-12-28",
+        "time": "10:00",
+        "category": "personal",
+        "id": "dec8ba7b-eb83-458b-806e-c9594cae5d09"
+      },
+      {
+        "id": "d0fa14ab-2cbe-4b45-8a44-69b5c0d291bf",
+        "title": "baby shower",
+        "category": "personal",
+        "date": "2024-12-19",
+        "time": "22:02",
+        "archived": false
+      },
+      {
+        "id": "97b9babd-d816-4815-b86f-aafdb99a84df",
+        "title": "meeting ",
+        "category": "work",
+        "date": "2024-12-10",
+        "time": "21:03",
+        "archived": false
+      }
+    ]
+  }
